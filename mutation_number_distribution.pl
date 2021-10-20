@@ -1,4 +1,4 @@
-#! /mnt/nasapps/development/perl/5.28.1/bin/perl
+#! /urs/bin/perl
 ##############################
 # mutation_number_distribution.pl
 # Wei Shao
